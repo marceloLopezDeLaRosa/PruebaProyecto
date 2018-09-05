@@ -8,7 +8,8 @@ import control.Conexión;
 import view.InputTypes;
 
 public class Menú {
-
+	// Esta línea es de prueba
+	
 	/****************************
 	 * Encabezado del menú *
 	 ****************************/
